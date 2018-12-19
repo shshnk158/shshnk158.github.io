@@ -3,11 +3,9 @@
 I'm Shashank, I live in Bangalore and recently graduated from National Institute of Technology-Patna in the field of Information Technology. Interests in Data science, made me further go indepth with Machine learning and Deep learning. All the repositories on github are projects done by me related to Data science field.
 
 > My Profiles
-![image](Images/Kaggle_logo.png)
-![image](Images/Link_logo.jpg)
 
-<img src="Images/Kaggle_logo.png" width="30" title="">
-<img src="Images/Link_logo.jpg" width="30" title="">
+<img src="Images/Kaggle_logo.png" width="50" title="Kaggle" href="https://www.kaggle.com/shashanksai">
+<img src="Images/Link_logo.jpg" width="30" title="LinkedIn" href="https://www.linkedin.com/in/sai-shashank-injamoori-5632aa111/">
 
 
 ## My Projects
