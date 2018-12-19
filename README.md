@@ -11,6 +11,8 @@ I'm Shashank, I live in Bangalore and recently graduated from National Institute
 <img src="Images/Link_logo.jpg" width="70" title="LinkedIn">
 </a>
 
+<link rel="icon" href="Images/ShashankImage.jpg" type="image/x-icon" />
+
 ## My Projects
 
 ### 1. [Personalized Cancer Diagnosis](https://shshnk158.github.io/Personalized-Cancer-Diagnosis/)
