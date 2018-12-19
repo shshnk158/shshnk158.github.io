@@ -7,7 +7,7 @@ I'm Shashank, I live in Bangalore and recently graduated from National Institute
 <img src="Images/Kaggle_logo.png" width="100" title="Kaggle">
 </a>
 <a href="https://www.linkedin.com/in/sai-shashank-injamoori-5632aa111/" target="_blank">
-<img src="Images/Link_logo.jpg" width="70" title="LinkedIn">
+<img src="Images/Link_logo.jpg" width="50" title="LinkedIn">
 </a>
 
 ## My Projects
